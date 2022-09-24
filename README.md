@@ -23,8 +23,15 @@
            Downloads/   ELibrary/   Favorites/  
            
 - arguments   
-/ : argument of directory  
+[directory name]/(root) : argument of directory  
 ***ex)*** $ cd OneDrive/OSS  
+. : current directory  
+.. : upper-level directory 
+~ : home of current user    
+/[directory name] : absolute path  
+./[directory name] : relative path  
+../[directory name] : relative path  
+
 
  
 
