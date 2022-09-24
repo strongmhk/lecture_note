@@ -9,7 +9,7 @@
 - cd : change directory  
 ***ex)*** $ cd OneDrive  
           kim65@DESKTOP-JS2CS9H MINGW64 ~/OneDrive  
-          $ cd ..   -> upper-level directory  
+          $ cd ..   -> upper-level directory   
           
 ***ex)*** $ pwd  
           kim65@DESKTOP-JS2CS9H MINGW64 ~/OneDrive  
