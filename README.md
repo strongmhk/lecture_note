@@ -21,6 +21,10 @@
           '3D Objects'/ AppData/ 'Application Data'@  
            Contacts/ Cookies@  Documents/  
            Downloads/   ELibrary/   Favorites/  
+           
+- root : argument of directory  
+***ex)*** $ cd OneDrive/OSS  
+
  
 
 ---
