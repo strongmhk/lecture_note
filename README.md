@@ -11,7 +11,7 @@
           kim65@DESKTOP-JS2CS9H MINGW64 ~/OneDrive  
           $ cd ..   -> upper-level directory   
           
-***ex)*** $ pwd  
+  ***ex)*** $ pwd  
           kim65@DESKTOP-JS2CS9H MINGW64 ~/OneDrive  
           $ cd ..  
           /c/Users/kim65  
