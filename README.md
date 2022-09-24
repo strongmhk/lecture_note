@@ -22,7 +22,8 @@
            Contacts/ Cookies@  Documents/  
            Downloads/   ELibrary/   Favorites/  
            
-- root : argument of directory  
+- arguments   
+/ : argument of directory  
 ***ex)*** $ cd OneDrive/OSS  
 
  
