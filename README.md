@@ -32,7 +32,13 @@
 ./[directory name] : relative path  
 ../[directory name] : relative path  
 
-
+- options of ls  
+$ ls -l : detail information of files or directories (long format)  
+$ ls -lh : displays the size of the file in kilobytes.
+***ex)*** -rw-rwr--1  minh  minh  576  Apr  17  2022  imp.txt  
+ (file permissions) (owner) (group)  (size)  (modification time)  (file name)  
  
-
+ 'up arrow' key : copy the previous command  
+ tab key : autocomplete names of files in a directory  
+ 
 ---
